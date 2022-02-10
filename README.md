@@ -12,13 +12,9 @@ _🦌 网页小游戏 🥛_
 
 ## 简介
 
-小游戏：吃掉小鹿乃
+小游戏：射爆艾德琳
 
-[鹿乃b站](https://space.bilibili.com/316381099)
-|
-[线上版本](https://xingye.me/game/eatkano/index.php)
-|
-[Github Pages](https://arcxingye.github.io/EatKano/index.html)
+艾德琳超坏的，我们一起射爆她吧！
 
 ## 可选功能
 
